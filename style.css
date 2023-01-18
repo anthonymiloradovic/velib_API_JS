@@ -1,0 +1,27 @@
+body {
+    background-color: #70afbe;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    align-items: center;
+       
+}
+#velib-station{
+    padding: 8px 8px ;
+}
+.leaflet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#map{
+    border: 2px solid white;
+    border-radius: 3px;
+    height: 200px;
+    width: 400px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
